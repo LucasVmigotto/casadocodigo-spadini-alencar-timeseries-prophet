@@ -1,6 +1,6 @@
-# template-datascience
+# Livro: Séries Temporais com Prophet
 
-Template for Data Science, Machine Learning and Deep Learning projects
+Repositório para códigos desenvolvidos durante a obra
 
 ## Summary
 
